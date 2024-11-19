@@ -1,3 +1,5 @@
+⚠️ If there are any issues with the formatting results, please **file an issue in [dawnbeen/c_formatter_42](https://github.com/dawnbeen/c_formatter_42)** instead of this repository.
+
 # 42 C-Format
 
 42 C-Format is a VScode formatting provider extension for c_formatter_42, which is a c-language formatter that conforms to Norm v3 in 42 schools.
